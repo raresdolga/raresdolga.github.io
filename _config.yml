@@ -22,19 +22,19 @@ repository               : "raresdolga/blog" #"academicpages/raresdolga.github.i
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Your Sidebar Name"
+  name             : "UCL Foundational AI CDT PhD Student"
   pronouns         : # example: "she/her"  
-  bio              : "UCL Foundational AI CDT PhD Student"
+  bio              : ""
   location         : "London, UK"
   employer         : "University College London"
   uri              : # URL
   email            : "rares.dolga.16@ucl.ac.uk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # arxiv            :  
+  googlescholar    : https://scholar.google.com/citations?hl=ro&user=oDA3ko0AAAAJ
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "raresdolga97" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -125,7 +125,6 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Social Sharing
 twitter:
