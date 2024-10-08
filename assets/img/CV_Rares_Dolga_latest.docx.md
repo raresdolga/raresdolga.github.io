@@ -1,14 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 **Rares Dolga**  
 Computer Science student ranked third in class and PhD candidate focused on probabilistic machine learning, specialising in efficient long sequence generation. Seeking opportunities in machine learning and quantitative research.
 
@@ -89,5 +78,3 @@ COMP0080: Graphical Models, University College London	**Oct 2023 \- Dec 2023, Lo
 **Organisations and Activities**			
 
 * Microsoft Student Partner (2017-2019) \- Gaining leadership experience by organising hackathons and talks
-
-[CV - PDF]({{'/assets/img//CV_Rares_Dolga_latest.docx.pdf' | relative_url }})
