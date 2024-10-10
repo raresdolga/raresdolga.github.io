@@ -90,4 +90,4 @@ COMP0080: Graphical Models, University College London	**Oct 2023 \- Dec 2023, Lo
 
 * Microsoft Student Partner (2017-2019) \- Gaining leadership experience by organising hackathons and talks
 
-[CV - PDF]({{'/assets/img//CV_Rares_Dolga_latest.docx.pdf' | relative_url }})
+[CV - PDF]({{'/assets/img//CV_Rares_Dolga.pdf' | relative_url }})
