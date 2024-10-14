@@ -14,7 +14,7 @@ Computer Science student ranked third in class and PhD candidate focused on prob
 
 **EDUCATION** 
 
-**University College London** Foundational AI CDT MPhil**/**PhD. Candidate 	**Oct  2023 \-  Present, London UK**
+**University College London** Foundational AI CDT MPhil**/**PhD. Candidate 	**Sept  2023 \-  Present, London UK**
 
 * NLP research for efficient long sequence learning using probabilistic machine learning techniques.
 
@@ -28,7 +28,7 @@ Computer Science student ranked third in class and PhD candidate focused on prob
 
 **WORK EXPERIENCE**
 
-**UIPath AI Scientist Intern ( Part-time)	Mar 2024 – Present, London UK**
+**UiPath AI Scientist Intern ( Part-time)	Mar 2024 – Present, London UK**
 
 * Creating efficient models for long sequences
 
@@ -73,7 +73,7 @@ COMP0080: Graphical Models, University College London	**Oct 2023 \- Dec 2023, Lo
 
 **TECHNICAL SKILLS AND COMPETENCIES**							               
 
-* **Technologies:** Python, Pytorch, Spacy, Q/KDB+**,** Java**,** C/C++, Linux, Git, ECDL  
+* **Technologies:** Python, Pytorch, Jax, Spacy, Q/KDB+**,** Java**,** C/C++, Linux, Git, ECDL  
 * **Other Skills:** Adaptable to multicultural environments, Team spirit, Good communication, Leadership  
 * **Languages:** Fluent in English, Native Romanian speaker
 
